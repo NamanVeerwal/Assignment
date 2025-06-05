@@ -1,2 +1,2 @@
 mkdir dir6
-dir6
+cd dir6
