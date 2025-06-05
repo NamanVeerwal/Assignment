@@ -1,1 +1,1 @@
-cd -laS
+ls -laS
