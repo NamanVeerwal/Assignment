@@ -4,4 +4,4 @@ mkdir dir9_2
 cd dir9_2
 mkdir dir9_3
 cd dir9_3
-toch foo
+touch foo
